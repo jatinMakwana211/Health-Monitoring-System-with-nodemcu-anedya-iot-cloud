@@ -1,0 +1,8 @@
+ 
+ ESP 8266(Node MCU)
+ MAX30100(Hartbeat and SPO2)
+ DS18B20(Body Temperature)
+ Breadboard
+ Power supply(+5v)
+ WIRE
+ 4.7Kohm Resister

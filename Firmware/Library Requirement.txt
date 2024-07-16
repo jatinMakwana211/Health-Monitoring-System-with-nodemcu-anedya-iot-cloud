@@ -1,0 +1,9 @@
+#include <ESP8266WiFi.h>
+#include <PubSubClient.h>
+#include <WiFiClientSecure.h>
+#include <ArduinoJson.h>
+#include <TimeLib.h>
+#include <OneWire.h>
+#include <DallasTemperature.h>
+#include <Wire.h>
+#include "MAX30100_PulseOximeter.h"
