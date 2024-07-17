@@ -59,7 +59,7 @@ def drawLogin():
         submit_button = st.button(label="Submit")
 
         if submit_button:
-            if username_inp == "admin" and password_inp == "admin":
+            if username_inp == "jatin" and password_inp == "jatin":
                 st.session_state.LoggedIn = True
                 st.experimental_rerun()
             else:
